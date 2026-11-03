@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+.env
+.venv/
+venv/
+.vscode/
+.ipynb_checkpoints/
+data/spam.csv
